@@ -49,7 +49,7 @@ const developer = {
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Bodya-Sav&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=aaaaaa&text_color=888888&icon_color=555555&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=aaaaaa&text_color=888888" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bodya-Sav&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=aaaaaa&text_color=888888" />
 </div>
 
 ---
