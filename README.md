@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=20&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&width=500&lines=Frontend+Developer;Crafting+interfaces+with+purpose;Less+noise%2C+more+signal." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=20&duration=3000&pause=1000&color=94a3b8&center=true&vCenter=true&width=500&lines=Frontend+Developer;Crafting+interfaces+with+purpose;Less+noise%2C+more+signal." alt="typing" />
 </div>
 
 <br/>
@@ -10,9 +10,7 @@
 
 <br/>
 
----
-
-### `~/stack`
+## 🛠️ Tech Stack
 
 ![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=flat-square&logo=typescript&logoColor=3178C6)
@@ -25,16 +23,23 @@
 ![WebRTC](https://img.shields.io/badge/WebRTC-20232A?style=flat-square&logo=webrtc&logoColor=333333)
 ![ShadCN](https://img.shields.io/badge/ShadCN-20232A?style=flat-square&logo=shadcnui&logoColor=ffffff)
 
----
+<br/>
 
-### `~/stats`
+## 📊 Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Bodya-Sav&theme=dark&hide_border=true&background=0d1117&stroke=222&ring=555&fire=888&currStreakLabel=888&sideLabels=555&currStreakNum=aaa&sideNums=aaa&dates=444" />
+
+<img src="https://streak-stats.demolab.com?user=Bodya-Sav&theme=dark&hide_border=true&background=0d1117&stroke=3b82f6&ring=94a3b8&fire=3b82f6&currStreakLabel=cbd5e1&sideLabels=94a3b8&currStreakNum=3b82f6&sideNums=cbd5e1&dates=94a3b8" />
+
 </div>
 
----
+<br/>
+
+## 📬 Connect
 
 <div align="center">
-  <sub>open to interesting projects · quietly building · always learning</sub>
+
+[![Telegram](https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram&logoColor=24A1DE)](https://t.me/bodya_dev)
+[![Email](https://img.shields.io/badge/Email-20232A?style=for-the-badge&logo=mail.ru&logoColor=005FF9)](mailto:bogdahnsavchuk@yandex.ru)
+
 </div>
