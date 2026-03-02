@@ -1,0 +1,57 @@
+<svg width="680" height="340" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #0d1117; }
+      .titlebar { fill: #161b22; }
+      .prompt { fill: #555; font-family: 'JetBrains Mono', monospace; font-size: 13px; }
+      .cmd { fill: #cdd9e5; font-family: 'JetBrains Mono', monospace; font-size: 13px; }
+      .out { fill: #768390; font-family: 'JetBrains Mono', monospace; font-size: 13px; }
+      .accent { fill: #adbac7; font-family: 'JetBrains Mono', monospace; font-size: 13px; }
+
+      .l1-cmd { opacity:0; animation: f .1s .5s forwards; }
+      .l1-out { opacity:0; animation: f .1s 1.2s forwards; }
+      .l2     { opacity:0; animation: f .1s 2.0s forwards; }
+      .l2-out { opacity:0; animation: f .1s 2.7s forwards; }
+      .l2-out2{ opacity:0; animation: f .1s 2.7s forwards; }
+      .l3     { opacity:0; animation: f .1s 3.5s forwards; }
+      .l3-out { opacity:0; animation: f .1s 4.2s forwards; }
+      .l3-out2{ opacity:0; animation: f .1s 4.2s forwards; }
+      .l4     { opacity:0; animation: f .1s 5.0s forwards; }
+      .l4-out { opacity:0; animation: f .1s 5.7s forwards; }
+      .l5     { opacity:0; animation: f .1s 6.3s forwards; }
+      .cursor { opacity:0; animation: f .1s 6.3s forwards, blink 1s 6.4s step-end infinite; }
+
+      @keyframes f    { to { opacity: 1; } }
+      @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
+    </style>
+  </defs>
+
+  <rect width="680" height="340" rx="12" class="bg"/>
+  <rect width="680" height="40" rx="12" class="titlebar"/>
+  <rect y="28" width="680" height="12" class="titlebar"/>
+  <circle cx="20" cy="20" r="6" fill="#ff5f57"/>
+  <circle cx="40" cy="20" r="6" fill="#febc2e"/>
+  <circle cx="60" cy="20" r="6" fill="#28c840"/>
+  <text x="340" y="25" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="12" fill="#444">guest@Bodya-Sav ~ zsh</text>
+
+  <text x="24" y="72" class="prompt">❯</text>
+  <text x="40" y="72" class="cmd l1-cmd">whoami</text>
+  <text x="24" y="92" class="out l1-out">→  Frontend Developer · crafting pixel-perfect interfaces</text>
+
+  <text x="24" y="118" class="prompt l2">❯</text>
+  <text x="40" y="118" class="cmd l2">ls ./skills</text>
+  <text x="24" y="138" class="accent l2-out">React19  TypeScript  JavaScript  TailwindCSS  ShadCN</text>
+  <text x="24" y="155" class="accent l2-out2">Zustand  TanStack  Zod  WebRTC  WebSocket  Vite</text>
+
+  <text x="24" y="181" class="prompt l3">❯</text>
+  <text x="40" y="181" class="cmd l3">cat beyond_code.txt</text>
+  <text x="24" y="201" class="out l3-out">🕊️  spiritual life   ·   🔌 electronics &amp; tech</text>
+  <text x="24" y="218" class="out l3-out2">📷  photography      ·   🎵 music</text>
+
+  <text x="24" y="244" class="prompt l4">❯</text>
+  <text x="40" y="244" class="cmd l4">echo $PRINCIPLE</text>
+  <text x="24" y="264" class="accent l4-out">"clean code is a form of respect"</text>
+
+  <text x="24" y="300" class="prompt l5">❯</text>
+  <rect x="40" y="286" width="8" height="16" rx="1" class="cursor" fill="#cdd9e5"/>
+</svg>
