@@ -4,6 +4,7 @@
 </div>
 
 <br/>
+
 ```typescript
 const developer = {
   role:     "Frontend Developer",
@@ -66,3 +67,4 @@ const developer = {
 <div align="center">
   <sub>open to interesting projects · quietly building · always learning</sub>
 </div>
+
