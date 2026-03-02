@@ -1,33 +1,14 @@
-<!-- Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=22&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&width=500&lines=Frontend+Developer;Crafting+interfaces+with+purpose;Less+noise%2C+more+signal." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=20&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&width=500&lines=Frontend+Developer;Crafting+interfaces+with+purpose;Less+noise%2C+more+signal." alt="typing" />
 </div>
 
 <br/>
 
-```typescript
-const developer = {
-  role:     "Frontend Developer",
-  location: "Earth 🌍",
+<div align="center">
+  <img src="./terminal.svg" alt="terminal" />
+</div>
 
-  stack: {
-    core:       ["React 19", "TypeScript", "JavaScript"],
-    styling:    ["TailwindCSS", "ShadCN"],
-    state:      ["Zustand", "TanStack Query"],
-    validation: ["Zod"],
-    realtime:   ["WebRTC", "WebSocket"],
-    tooling:    ["Vite"],
-  },
-
-  currently: {
-    building:  "pixel-perfect, accessible UIs",
-    exploring: "Web Animations API & React 19 features",
-    principle: "clean code is a form of respect",
-  },
-
-  beyond_code: ["spiritual life 🕊️", "electronics & tech 🔌", "photography 📷", "music 🎵"],
-} as const;
-```
+<br/>
 
 ---
 
@@ -49,22 +30,11 @@ const developer = {
 ### `~/stats`
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Bodya-Sav&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=aaaaaa&text_color=888888&icon_color=555555&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bodya-Sav&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=aaaaaa&text_color=888888" />
+  <img src="https://streak-stats.demolab.com?user=Bodya-Sav&theme=dark&hide_border=true&background=0d1117&stroke=222&ring=555&fire=888&currStreakLabel=888&sideLabels=555&currStreakNum=aaa&sideNums=aaa&dates=444" />
 </div>
-
----
-
-### `~/now`
-
-> 🕊️ &nbsp;Looking for signal in the noise — in code and in life  
-> 🔌 &nbsp;Excited about the next wave of human-computer interaction  
-> 📷 &nbsp;Framing the world one shot at a time  
-> 🎵 &nbsp;Music as a background to everything I build  
 
 ---
 
 <div align="center">
   <sub>open to interesting projects · quietly building · always learning</sub>
 </div>
-
