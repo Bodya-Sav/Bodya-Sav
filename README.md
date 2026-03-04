@@ -29,7 +29,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Bodya-Sav&theme=dark&hide_border=true&background=0d1117&stroke=3b82f6&ring=94a3b8&fire=3b82f6&currStreakLabel=cbd5e1&sideLabels=94a3b8&currStreakNum=3b82f6&sideNums=cbd5e1&dates=94a3b8&cacheDays=1" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Bodya-Sav&theme=dark&hide_border=true&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri&ring=94A3B8&fire=3B82F6&currStreakLabel=CBD5E1&sideLabels=94A3B8&currStreakNum=3B82F6&sideNums=CBD5E1&dates=94A3B8&stroke=3B82F6&background=0D1117&excludeDaysLabel=0D1117" alt="GitHub Streak" /></a>
 
 </div>
 
